@@ -2,3 +2,5 @@ AIandML
 data science
 adv programing -c/c++/python
 basics of python programing
+python programming can easy and simple to learn
+
